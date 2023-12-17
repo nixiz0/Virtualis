@@ -34,7 +34,7 @@ The app uses computer vision recognition AI to use a mouse, you can scroll, righ
 
 ## Use the Virtual Mouse
 
-![Interface tools](ressources/virtual_mouse_logo.png)
+![Interface tools](ressources/illu_virtual_mouse.png)
 
 **-Mouve the Mouse:** To move you just have to lift your **index finger** and it will automatically move your **mouse cursor** where you want
 
