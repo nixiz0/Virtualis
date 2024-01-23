@@ -16,7 +16,7 @@ The app uses computer vision recognition AI to use a mouse, you can scroll, righ
 
 ## Installation
 
-The fastest way is to clone the repository and click on the **'start-app.bat'** and the application will **launch automatically** (if you have beforehand creating your .env and download the requirements.txt in your activate environment).
+The fastest way is to clone the repository and click on the **'start-app.bat'** and the application will **launch and make the installation automatically**.
 
 If you want to run the code from your code environment, do this :
 
@@ -29,6 +29,8 @@ If you want to run the code from your code environment, do this :
 3-/ Download required libraries ```pip install -r requirements.txt```
 
 4- Run the menu.py ```python menu.py```
+
+
 ## Feature Guide
 **Camera Number :** You must enter the number of your camera you want to use, if you only have 1 camera then it will be 0, if you have 2 then it will be 1 etc
 
